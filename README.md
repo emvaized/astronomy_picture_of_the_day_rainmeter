@@ -7,9 +7,8 @@ Left click on the image will open it in a new window for further investigation, 
 
 Bring a bit of cosmic wonder to your everyday life! ✨ 
 
-![Screenshot 1](./screenshots/1.png)
 ![Screenshot 2](./screenshots/2.png)
-
+![Screenshot 1](./screenshots/1.png)
 
 ## ❤️ Support
 If you wish to support this project or say a little thanks, please see my [Ko-Fi](https://ko-fi.com/emvaized) and [Patreon](https://www.patreon.com/emvaized) pages 🙏

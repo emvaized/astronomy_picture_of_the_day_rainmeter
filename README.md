@@ -2,7 +2,7 @@
 
 [![DeviantArt Views](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fbackend.deviantart.com%2Foembed%3Furl%3Dhttps%3A%2F%2Fwww.deviantart.com%2Femvaized%2Fart%2FAstronomy-Picture-of-the-Day-skin-for-Rainmeter-1240116244&query=%24.community.statistics._attributes.views&logo=DeviantArt&logoColor=00e59b&label=views&labelColor=black&color=grey)](https://www.deviantart.com/emvaized/art/Astronomy-Picture-of-the-Day-skin-for-Rainmeter-1240116244)
 [![DeviantArt Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fbackend.deviantart.com%2Foembed%3Furl%3Dhttps%3A%2F%2Fwww.deviantart.com%2Femvaized%2Fart%2FAstronomy-Picture-of-the-Day-skin-for-Rainmeter-1240116244&query=%24.community.statistics._attributes.downloads&label=downloads&logo=DeviantArt&logoColor=00e59b&labelColor=black&color=grey)](https://www.deviantart.com/emvaized/art/Astronomy-Picture-of-the-Day-skin-for-Rainmeter-1240116244)
-<!-- [![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/emvaized/astronomy_picture_of_the_day_rainmeter/latest/total?logo=github&label=github+downloads)](https://github.com/emvaized/astronomy_picture_of_the_day_rainmeter/releases/latest) --!>
+<!-- [![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/emvaized/astronomy_picture_of_the_day_rainmeter/latest/total?logo=github&label=github+downloads)](https://github.com/emvaized/astronomy_picture_of_the_day_rainmeter/releases/latest) -->
 
 This beautifully designed widget for [Rainmeter](https://www.rainmeter.net/) will show you Astronomy Picture of the Day from NASA right on your desktop. 
 
